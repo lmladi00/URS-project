@@ -1,5 +1,5 @@
 # URS-project
-Interactive protoype of "Smart club" for college project (colleagues and I won third place)
+Interactive protoype of "Smart club" for university project (colleagues and I won third place)
 
 The application "Smart Club" allows easy recording of working hours of club employees, and thus faster calculation of employee salaries based on the number of hours worked. Guests of the club can quickly and easily buy tickets for various events. A useful aspect of the digital way of entering and leaving the club is the ability to check at any time how many people are currently in the club, which will be visible within the Spica system. The main is to connect the user id to the wifi of the club
 
